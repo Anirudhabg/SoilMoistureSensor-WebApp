@@ -73,6 +73,6 @@ Soil Moisture: 304
 
 The value will update every 5 seconds to reflect the current soil moisture reading.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Happy Coding :)
